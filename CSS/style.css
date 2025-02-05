@@ -71,10 +71,11 @@ ul li {
 }
 
 .video {
-  background-image: url(https://www.giallozafferano.it/images/226-22636/Fluffy-pancake_650x433_wm.jpg);
   text-align: center;
-  padding-top: 29px;
-  padding-bottom: 21px;
-  padding-top: 79px;
-  padding-bottom: 57px;
+  background-image: url(../assets/focaccia.png);
+  width: 100%;
+}
+
+iframe {
+  opacity: 0;
 }
